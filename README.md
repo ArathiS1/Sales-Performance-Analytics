@@ -1,7 +1,7 @@
 # Sales-Performance-Analytics
 ## Strategic Sales Performance Analytics | Data-Driven Growth Strategy
 
-<img src="images/Sales_Insights.png" alt="Sales Insights Dashboard" width="800"/>
+<img src="images/Sales_Insights.png" alt="Sales Insights Dashboard" width="800"/> 
 
 ## Problem Statement
 The sales leadership team lacks a unified, real-time view of performance across regions, channels, and product categories. This leads to:
