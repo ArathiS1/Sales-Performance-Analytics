@@ -1,5 +1,5 @@
 
-## Strategic Sales Performance Analytics | Data-Driven Growth Strategy
+## Strategic Sales Performance Analytics | Data-Driven Growth Strategy 
 
 ![Power BI](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Data Analysis](https://img.shields.io/badge/Data_Analysis-0078D4?style=for-the-badge&logo=powerbi&logoColor=white)
